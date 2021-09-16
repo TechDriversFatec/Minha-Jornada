@@ -139,3 +139,4 @@ Os usuários previstos estão descritos conforme imagem abaixo:
 # Manual do Usuário
 [MANUAL DO USUÁRIO](https://github.com/PITime01/Minha-Jornada/blob/SPRINT-3/SPRINT%203/Manual__do_usu%C3%A1rio.md)
 
+# Minha-Jornada
